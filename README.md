@@ -1,6 +1,7 @@
 ![npm](https://img.shields.io/npm/v/access-level-router)
 ![license](https://img.shields.io/npm/l/access-level-router)
-![issues](https://img.shields.io/github/issues/your-username/access-level-router)
+![issues](https://img.shields.io/github/issues/SAmir1374/access-level-router)
+
 [View on GitHub](https://github.com/SAmir1374/access-level-router)
 
 کتابخانه مدیریت دسترسی
