@@ -35,5 +35,9 @@
   },
   "keywords": ["react", "router", "protected routes", "typescript"],
   "author": "Seyed Amirmuhammad",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SAmir1374/access-level-router.git"
+  }
 }
